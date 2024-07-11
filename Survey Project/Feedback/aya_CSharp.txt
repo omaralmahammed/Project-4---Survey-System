@@ -1,0 +1,11 @@
+Question: How would you rate your experience with C#?, Answer: Excellent
+Question: How often do you use C#?, Answer: Very Good
+Question: How familiar are you with LINQ in C#?, Answer: Very Good
+Question: How comfortable are you with asynchronous programming in C#?, Answer: Excellent
+Question: How would you rate your understanding of C# collections?, Answer: Good
+Question: How often do you use C# for web development?, Answer: Good
+Question: How familiar are you with C# exception handling?, Answer: Good
+Question: How comfortable are you with object-oriented programming in C#?, Answer: Good
+Question: How would you rate your understanding of C# generics?, Answer: Very Good
+Question: How often do you use C# for desktop application development?, Answer: Very Good
+Averege: 70

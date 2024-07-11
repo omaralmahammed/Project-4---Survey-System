@@ -1,0 +1,11 @@
+Question: How would you rate your experience with PHP?, Answer: Good
+Question: How often do you use PHP?, Answer: Very Good
+Question: How familiar are you with PHP frameworks like Laravel?, Answer: Very Good
+Question: How comfortable are you with PHP error handling?, Answer: Excellent
+Question: How would you rate your understanding of PHP arrays?, Answer: Good
+Question: How often do you use PHP for web development?, Answer: Very Good
+Question: How familiar are you with PHP sessions and cookies?, Answer: Very Good
+Question: How comfortable are you with object-oriented programming in PHP?, Answer: Very Good
+Question: How would you rate your understanding of PHP file handling?, Answer: Excellent
+Question: How often do you use PHP for backend development?, Answer: Very Good
+Averege: 75

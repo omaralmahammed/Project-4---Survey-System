@@ -1,0 +1,10 @@
+﻿How would you rate your experience with C#?
+How often do you use C#?
+How familiar are you with LINQ in C#?
+How comfortable are you with asynchronous programming in C#?
+How would you rate your understanding of C# collections?
+How often do you use C# for web development?
+How familiar are you with C# exception handling?
+How comfortable are you with object-oriented programming in C#?
+How would you rate your understanding of C# generics?
+How often do you use C# for desktop application development?

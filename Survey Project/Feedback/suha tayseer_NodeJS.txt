@@ -1,0 +1,8 @@
+Question: How would you rate your experience with Node.js?, Answer: Good
+Question: How often do you use Node.js?, Answer: Excellent
+Question: How familiar are you with Node.js frameworks like Express?, Answer: Very Good
+Question: How comfortable are you with Node.js error handling?, Answer: Poor
+Question: How would you rate your understanding of Node.js modules?, Answer: Excellent
+Question: How often do you use Node.js for web development?, Answer: Poor
+Question: How familiar are you with asynchronous programming in Node.js?                    , Answer: Poor
+Averege: 57

@@ -1,0 +1,7 @@
+﻿How would you rate your experience with Node.js?
+How often do you use Node.js?
+How familiar are you with Node.js frameworks like Express?
+How comfortable are you with Node.js error handling?
+How would you rate your understanding of Node.js modules?
+How often do you use Node.js for web development?
+How familiar are you with asynchronous programming in Node.js?                    

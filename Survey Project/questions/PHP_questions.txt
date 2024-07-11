@@ -1,0 +1,10 @@
+﻿How would you rate your experience with PHP?
+How often do you use PHP?
+How familiar are you with PHP frameworks like Laravel?
+How comfortable are you with PHP error handling?
+How would you rate your understanding of PHP arrays?
+How often do you use PHP for web development?
+How familiar are you with PHP sessions and cookies?
+How comfortable are you with object-oriented programming in PHP?
+How would you rate your understanding of PHP file handling?
+How often do you use PHP for backend development?
